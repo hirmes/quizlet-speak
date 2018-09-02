@@ -3,7 +3,7 @@ Chrome extension that uses Web Browser Speech Synthesis to speak the quiz word a
 
 ## Why?
 
-Quizlet offers spoken language support for many languages, but not all.  This extension allows users to hear spoken works from any language supported by their OS.
+Quizlet offers spoken language support for many languages, but not all.  This extension allows users to hear spoken words from any language supported by their OS.
 
 ## Where?
 
